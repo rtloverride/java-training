@@ -1,5 +1,3 @@
-package decipherRSA;
-
 import java.math.BigInteger;
 
 public class Test {
