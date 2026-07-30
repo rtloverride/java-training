@@ -1,5 +1,3 @@
-package newbieContest;
-
 public class laserOsmotique {
     public static void main(String[] args) {
         int comptSol = 0;
