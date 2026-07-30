@@ -1,5 +1,3 @@
-package newbieContest;
-
 public class Main {
     public static void main(String[] args) {
         int i, j, k, l, m, n, o, p, q, r, s, count;
