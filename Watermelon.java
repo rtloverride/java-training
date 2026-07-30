@@ -1,5 +1,3 @@
-package codeForces;
-
 import java.util.*;
 
 public class Main{
