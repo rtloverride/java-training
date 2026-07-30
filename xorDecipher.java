@@ -1,5 +1,3 @@
-package xorDecipher;
-
 public class xorDecipher {
 	public static void main(String[] args) {
 		String paramString = "L\bHM";
